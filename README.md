@@ -1,6 +1,6 @@
 # Rate cuts didn't move on-chain dollars. Funding did.
 
-**Read the report: [report/report.pdf](report/report.pdf)** ([markdown version](report/draft.md))
+**Read the report: [PDF](https://clement1nes.github.io/rates-vs-onchain-yields/report/report.pdf)** ([markdown version](report/draft.md))
 
 Macro-to-crypto research note: what the 2024 to 2025 Fed cutting cycle did to tokenized Treasuries, yield-bearing stablecoins, DeFi lending and the basis trade, and at what spread capital moves. Data to 16 October 2026. Sources and pull dates: [data/SOURCES.md](data/SOURCES.md).
 
